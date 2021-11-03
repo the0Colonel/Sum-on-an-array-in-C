@@ -1,2 +1,2 @@
-# Sum-on-an-array-in-C
-Sum on an array in C 
+
+video link : https://www.youtube.com/watch?v=esC9pGqQLyI
